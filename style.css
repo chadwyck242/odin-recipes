@@ -11,4 +11,12 @@ ul {
     margin-left: 33%;
 }
 
+ol {
+    text-align: left;
+}
+
+.description {
+    text-align: left;
+}
+
 /* font-family: 'Open Sans', sans-serif; */
