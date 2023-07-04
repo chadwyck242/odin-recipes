@@ -5,6 +5,11 @@ body {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 ul {
     list-style-type: none;
     text-align: left;
@@ -15,8 +20,14 @@ ol {
     text-align: left;
 }
 
+#recipe-list {
+    text-align: center;
+    margin-right: 35%;
+}
+
 .description {
     text-align: left;
 }
+
 
 /* font-family: 'Open Sans', sans-serif; */
